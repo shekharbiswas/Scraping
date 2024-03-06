@@ -1,0 +1,569 @@
+,id,ibx,region,subregion,address,renewable_energy
+0,1957,PA8x,EMEA,France,"110 bis avenue General Leclerc, Pantin France 93500","100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+1,1958,SA1,EMEA,Spain,"Avenida Montes Sierra, 36 Seville 41007 Spain",100% from Green product through supplier (bundled GoOs from hydro/solar/ biomass/wind)
+2,1959,SO1,EMEA,Bulgaria,"10 ""5030"" Str., Druzhba-1 district
+1592 Sofia, Bulgaria",100% from Green product through supplier (bundled GoOs)
+3,1960,SO2,EMEA,Bulgaria,"33 Poruchik Nedelcho, Bonchev str, Sofia 1528",100% from 100% from Green product through supplier (bundled GoOs)
+4,1961,SK1,EMEA,Sweden,"Mariehällsvägen 36
+168 65 Bromma, Sweden
+",100% from Green product through supplier (local hydro)
+5,1962,SK2,EMEA,Sweden,"Kvastvägen 25-29128 62 Skändal Stockholm, Sweden",100% from Green product through supplier (local hydro)
+6,1963,SK3,EMEA,Sweden,"Finspångsgatan 48 
+16353 Spånga, Sweden",100% from Green product through supplier (local hydro)
+7,1964,WA1,EMEA,Poland,"Aleje Jerozolimskie 65/79, 00-697 Warsaw, Poland",100% from GoOs from Poland wind/solar
+8,1965,WA2,EMEA,Poland,"Poleczki 23 Street, Warsaw, Poland",100% from 100% from Unbundled GoOs from Poland wind
+9,1966,WA3,EMEA,Poland,"Jerozolimskie Avenue, Salomea District,02-222 Warsaw",100% from Green product through supplier (bundled GoOs from wind)
+10,1967,ZH2,EMEA,Switzerland,"Josefstrasse 225
+8005 Zurich, Switzerland",100% from Green product through supplier (local hydro)
+11,1968,ZH4,EMEA,Switzerland,"Josefstrasse 225
+8005 Zurich, Switzerland",100% from Green product through supplier (local hydro)
+12,1969,ZH5,EMEA,Switzerland,"Allmendstrasse 13
+Oberengstringen 8102 Zurich, Switzerland",100% from Green product through supplier (local hydro)
+13,1970,ZW1,EMEA,Netherlands,"Telfordstraat 3
+8013 RL Zwolle, Netherlands",100% from Green product through supplier (bundled GoOs from wind)
+14,1971,AT1,AMER,East,"180 Peachtree Street NW
+2nd, 3rd and 6th Floors
+Atlanta, GA 30303",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+15,1972,AT2,AMER,East,"56 Marietta Street NW
+5th Floor
+Atlanta, GA 30303",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+16,1973,AT3,AMER,East,"56 Marietta Street NW
+6th Floor
+Atlanta, GA 30303",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+17,1974,AT4,AMER,East,"450 Interstate North Parkway
+Atlanta, GA 30339",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+18,1975,AT5,AMER,East,"2836 Peterson Place NW
+Norcross, GA 30071",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+19,1977,BO2,AMER,North,"41 Alexander Road
+Billerica, MA 01821",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+20,1978,CH1,AMER,North,"350 East Cermak Road
+5th Floor
+Chicago, IL 60616",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+21,1979,CH2,AMER,North,"350 East Cermak Road
+6th Floor
+Chicago, IL 60616",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+22,1980,CH3,AMER,North,"1905 Lunt Avenue
+Elk Grove, IL 60007",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+23,1981,CH4,AMER,North,"350 East Cermak Road
+8th Floor
+Chicago, IL 60616",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+24,1982,CH7,AMER,North,"111 Plaza Drive
+Westmont, IL, 60559",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+25,1983,CU1,AMER,East,"18155 Technology Drive
+Building A
+Culpeper, VA 22701",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+26,1984,CU2,AMER,East,"18155 Technology Drive
+Building B
+Culpeper, VA 22701",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+27,1985,CU3,AMER,East,"18155 Technology Drive
+Building C
+Culpeper, VA 22701",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+28,1986,CU4,AMER,East,"18155 Technology Drive
+Building D
+Culpeper, VA 22701",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+29,1987,DA1,AMER,South,"1950 North Stemmons Freeway
+Suite 1034
+Dallas, TX 75207",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+30,1988,DA2,AMER,South,"1950 North Stemmons Freeway
+Suite 2027
+Dallas, TX 75207",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+31,1989,DA3,AMER,South,"1950 North Stemmons Freeway
+Suites 1039A & 2048 
+Dallas, TX 75207",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+32,1990,DA4,AMER,South,"2323 Bryan Street 
+Suite 1400 
+Dallas, TX 75201",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+33,1991,DA6,AMER,South,"1950 North Stemmons Freeway
+Suites 2049 & 3050
+Dallas, TX 75207",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+34,1992,DA7,AMER,South,"6653 Pinecrest Drive
+Plano, TX 75024",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+35,1993,DA9,AMER,South,"2222 East Grauwyler Road
+Irving, TX, 75061",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+36,1995,DA99,AMER,South,"1950 North Stemmons Freeway
+Dallas, TX 75207",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+37,1996,DC1,AMER,East,"21711 Filigree Court Suite C
+Ashburn, VA 20147",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+38,1997,DC2,AMER,East,"21715 Filigree Court
+Ashburn, VA 20147",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+39,1998,DC3,AMER,East,"44470 Chilum Place
+Ashburn, VA 20147",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+40,1999,DC4,AMER,East,"21691 Filigree Court
+Ashburn, VA 20147",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+41,2000,DC5,AMER,East,"21701 Filigree Court Building D
+Ashburn, VA 20147",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+42,2001,DC6,AMER,East,"21721 Filigree Court
+Ashburn, VA 20147",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+43,2002,DC7,AMER,East,"7990 Quantum Drive
+Vienna, VA 22182",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+44,2004,DC10,AMER,East,"21551 Beaumeade Circle
+Ashburn, VA 20147",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+45,2005,DC11,AMER,East,"Main Entrance via DC6
+21721 Filigree Court
+Ashburn, VA 20147
+
+For Shipments to DC11
+21721 Filigree Court Suite B
+(DC11 Loading Dock)
+Ashburn, VA 20147",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+46,2006,DC12,AMER,East,"44790 Performance Circle
+Ashburn, VA 20147",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+47,2007,DC13,AMER,East,"21830 Uunet Way
+Ashburn, VA 20147",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+48,2008,DC14,AMER,East,"7400 Infantry Ridge Road
+Manassas, VA 20109",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+49,2009,DC15,AMER,East,"44780 Performance Circle, Ashburn, VA",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+50,2010,DC97***,AMER,East,"460 Springpark Place
+Herndon, VA 20170",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+51,2011,DE1,AMER,West,"9706 East Easter Avenue
+Suite 160
+Englewood, CO 80112",100% from Xcel Energy Renewable*Connect Colorado (in-state solar)
+52,2012,DE2,AMER,West,"335 Inverness Drive South
+Englewood, CO 80112",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+53,2013,HO1,AMER,South,"1515 Aldine Meadows Road
+Houston, TX 77032",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+54,2014,LA1,AMER,West,"600 West 7th Street
+6th & 7th Floors
+Los Angeles, CA 90017",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+55,2015,LA2,AMER,West,"818 West 7th Street
+6th Floor
+Los Angeles, CA 90017",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+56,2016,LA3,AMER,West,"1920 East Maple Avenue 
+El Segundo, CA 90245",100% from RECs from wind VPPAs and Green-e wind RECs
+57,2017,LA4,AMER,West,"445 North Douglas Street
+El Segundo, CA 90245",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+58,2018,LA7,AMER,West,"1501 Francisco Street
+Torrance, CA, 90501",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+59,2019,MI1,AMER,South,"50 NE 9th Street (Main Entrance)
+50 NE 8th Street (For Shipments)
+Miami, FL 33132",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+60,2020,MI2,AMER,South,"36 NE Second Street
+Miami, FL 33132",100% from RECs from wind VPPAs and Green-e wind RECs
+61,2021,DB2,EMEA,Ireland,"Unit 7, Kilcarbery Park, New Nangor Road, Dublin, 22 Ireland",100% from Green product through supplier (bundled GoOs from wind)
+62,2022,DB3,EMEA,Ireland,"Unit 2 Northwest Business Park Ballycoolin, Dublin 15 Ireland",100% from Green product through supplier (bundled GoOs from wind)
+63,2023,DB4,EMEA,Ireland,"Unit 14 Northwest Business Park Ballycoolin, Dublin 15 Ireland",100% from Green product through supplier (bundled GoOs from wind)
+64,2024,DU1,EMEA,Germany,"Albertstrasse 27
+40233 Düsseldorf, Germany",100% from Green product through supplier (bundled GoOs from GreenBase program)
+65,2025,EN1,EMEA,Netherlands,"Auke Vleerstraat 1
+7521 PE Enschede, Netherlands",100% from Green product through supplier (bundled GoOs from wind)
+66,2027,FR2,EMEA,Germany,"Kruppstrasse 121-127
+60388 Frankfurt, Germany",100% from Green product through supplier (bundled GoOs from GreenBase program)
+67,2029,FR4,EMEA,Germany,"Lärchenstrasse 110
+65933 Frankfurt- Griesheim, Germany",100% from Green product through supplier (bundled GoOs from GreenBase program)
+68,2030,FR5,EMEA,Germany,"Kleyerstrasse  90
+60326 Frankfurt, Germany",100% from Green product through supplier (bundled GoOs from GreenBase program)
+69,2031,FR6,EMEA,Germany,"Lärchenstrasse 110 
+65933 Frankfurt, Germany",100% from Green product through supplier (bundled GoOs from GreenBase program)
+70,2032,FR7,EMEA,Germany,"Gutleutstrasse 310
+60327  Frankfurt/M.Germany",100% from Green product through supplier (bundled GoOs from GreenBase program)
+71,2033,HH1*,EMEA,Germany,"Vierenkamp 1, 22453 Hamburg, Germany",100% from Green product through supplier (bundled GoOs from GreenBase program)
+72,2034,GV1,EMEA,Switzerland,"6 Rue de la Confederation
+CH-1204 Geneva, Switzerland",100% from Green product through supplier (local hydro)
+73,2035,GV2,EMEA,Switzerland,"48, Route du Bois-des-Freres
+1219 Le Lignon, Switzerland",100% from Green product through supplier (local hydro)
+74,2037,HE3,EMEA,Finland,"Parrukatu 2
+00570 Helsinki, Finland",100% from Green product through supplier (bundled GoOs)
+75,2038,HE4,EMEA,Finland,"Myllynkivenkuja 4B
+01620 Vantaa,  Finland",100% from Green product through supplier (bundled GoOs)
+76,2039,HE5,EMEA,Finland,"Sahamyllyntie 4B
+00560 Helsinki, Finland",100% from Green product through supplier (bundled GoOs)
+77,2040,HE6,EMEA,Finland,"Sinimäentie 12
+02630 Espoo, Finland",100% from Green product through supplier (bundled GoOs)
+78,2041,HE7,EMEA,Finland,"Sinimäentie 8 02630 Espoo, Finland",100% from Green product through supplier (bundled GoOs)
+79,2042,IL2,EMEA,Turkey,"Dudullu OSB 3. Cd No:4 Y.Dudullu Mah. 34775 Umraniye, Istanbul, Turkey",100% from I-RECs from Turkey small hydro/wind/solar
+80,2043,LS1,EMEA,Portugal,"Avenida Severiano Falcao, 14 Prior Velho 2685-378 Portugal",100% from Green product through supplier (bundled GoOs)
+81,2044,LD3,EMEA,United Kingdom,"Unit 11 Matrix
+Coronation Road
+Park Royal, London
+NW10 7PH, United Kingdom",100% from Green product through supplier (GoOs and REGOs)
+82,2045,LD4,EMEA,United Kingdom,"2 Buckingham Avenue
+Slough Trading Estate
+Slough, Berkshire
+SL1 4NB, United Kingdom",100% from Green product through supplier (GoOs and REGOs)
+83,2046,LD5,EMEA,United Kingdom,"8 Buckingham Avenue
+Slough Trading Estate
+Slough, Berkshire
+SL1 4AX, United Kingdom",100% from Green product through supplier (GoOs and REGOs)
+84,2047,LD6,EMEA,United Kingdom,"352 Buckingham Avenue
+Slough Trading Estate
+Slough, Berkshire
+SL1 4PF, United Kingdom",100% from Green product through supplier (GoOs and REGOs)
+85,2048,LD7,EMEA,United Kingdom,"1 Banbury Avenue Slough SL1 4LH, United Kingdom",100% from Green product through supplier (GoOs and REGOs)
+86,2049,LD8,EMEA,United Kingdom,"6/7/8/9 Harbour Exchange Square 
+London E14 9GE, United Kingdom",100% from Green product through supplier (GoOs and REGOs)
+87,2050,LD9,EMEA,United Kingdom,"Unit 2 Powergate Business Park Volt Avenue
+London NW10 6PW, United Kingdom",100% from Green product through supplier (GoOs and REGOs)
+88,2051,LD10,EMEA,United Kingdom,"13 Liverpool Road
+Slough, SL1 4QZ, United Kingdom",100% from Green product through supplier (GoOs and REGOs)
+89,2052,LD13x,EMEA,United Kingdom,"13 Liverpool Road, Slough, SL1 4QZ, United Kingdom",100% from Green product through supplier (GoOs and REGOs)
+90,2053,MD1,EMEA,Spain,"Calle Isabel Colbrand, 6-8 Madrid 28050 Spain",100% from Green product through supplier (bundled GoOs from hydro/solar/ biomass/wind)
+91,2054,MD2,EMEA,Spain,"Calle Valgrande, 6 Alcobendas Madrid 28108 Spain",100% from Green product through supplier (bundled GoOs from hydro/solar/ biomass/wind)
+92,2055,MA1,EMEA,United Kingdom,"Unit 3 Williams House Manchester Science Park Lloyd Street North Manchester M15 6SE, United Kingdom",100% from Green product through supplier (GoOs and REGOs)
+93,2056,MA2,EMEA,United Kingdom,"Reynolds House Manchester Technopark4 Archway Manchester  M15 5RN, United Kingdom",100% from Green product through supplier (GoOs and REGOs)
+94,2057,MA3,EMEA,United Kingdom,"Joule House 76 Trafford Wharf Road Trafford Park Manchester  M17 1HE, United Kingdom",100% from Green product through supplier (GoOs and REGOs)
+95,2058,MA4,EMEA,United Kingdom,"Unit 4 Synergy House Manchester Science Park Guildhall Close Manchester, M15 6SY United Kingdom",100% from Green product through supplier (GoOs and REGOs)
+96,2059,ML2,EMEA,Italy,"Via Savona, 125
+20144 - Milano (MI) - Italy",100% from Green product through supplier (bundled GoOs from local wind)
+97,2060,ML3,EMEA,Italy,"Via Francesco Sforza, 13 
+20080 - Basiglio (MI) - Italy","100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+98,2061,ML4,EMEA,Italy,"Via Privata Cascia, 5
+20128 - Milan (MI) - Italy",100% from Green product through supplier (bundled GoOs from local wind)
+99,2062,MU1,EMEA,Germany,"Seidlstrasse 3
+80335 München, Germany",100% from Green product through supplier (bundled GoOs from GreenBase program)
+100,2063,MU3,EMEA,Germany,"Seidlstrasse 3
+80335 München, Germany",100% from Green product through supplier (bundled GoOs from GreenBase program)
+101,2064,PA1,EMEA,France,"Paris Nord 2
+167 Rue de la Belle Etoile
+95948 Roissy
+CDG Cedex, France","100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+102,2065,PA2,EMEA,France,"114 Rue Ambroise Croizat
+93200 Saint Denis, France","100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+103,2066,PA3,EMEA,France,"114 Rue Ambroise Croizat
+93200 Saint Denis, France","100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+104,2067,PA4,EMEA,France,"110 Bis avenue du G_n_ral Leclerc
+93500 Pantin, France","100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+105,2068,PA5,EMEA,France,"45 avenue Victor Hugo - Building 254 Zone EMGP - rue du Mimosa 93300 Aubervilliers, France","100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+106,2069,PA6,EMEA,France,"10 rue Waldeck Rochet Building 520 93300 Aubervilliers, France","100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+107,2070,PA7,EMEA,France,130-136 Boulevard de Verdun Energy Park. Bât 9 92400 Courbevoie France,"100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+108,2071,ME1,APAC,Australia,"578 Lorimer Street
+Port Melbourne
+Victoria 3207
+Australia",18.6% from Grid renewables backed by LGCs
+109,2072,ME2,APAC,Australia,"Unit B, 578 Lorimer Street, Port Melbourne, Victoria 3207, Australia",18.6% from Grid renewables backed by LGCs
+110,2073,ME4,APAC,Australia,"Derrimut, VIC, Australia",18.6% from Grid renewables backed by LGCs
+111,2074,ME5,APAC,Australia,"Derrimut, VIC, Australia",18.6% from Grid renewables backed by LGCs
+112,2075,OS1,APAC,Japan,"Nishi Shinsaibashi Building
+1-26-1 Shinmachi Nishi-ku, Osaka City,
+Osaka 550-0013, Japan",100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+113,2076,PE1,APAC,Australia,"East Perth, WA, Australia",18.6% from 100% from Grid renewables backed by LGCs
+114,2077,PE2,APAC,Australia,"Shenton Park, WA, Australia",18.6% from 100% from Grid renewables backed by LGCs
+115,2078,SH1,APAC,China,"Building No. 4,
+400 Fangchun Road
+(Epilight Technology Park),
+Zhangjiang Hi-tech Park,
+Pudong New Area,
+Shanghai 201203 PRC",Exempt
+116,2079,SH2,APAC,China,"Building No. 4
+700 Jinyu Road
+Pudong New Area
+Shanghai 201206 PRC",100% from I-RECs from China small hydro/wind/solar
+117,2080,SH3,APAC,China,"Building No. 3
+700 Jinyu Road
+Pudong New Area
+Shanghai 201206 PRC",100% from I-RECs from China small hydro/wind/solar
+118,2081,SH5,APAC,China,"Building No. 9
+No. 619 Longchang Road
+Yangpu District
+Shanghai 200090 PRC",100% from I-RECs from China small hydro/wind/solar
+119,2082,SH6,APAC,China,"898 Xinling Road, 
+Pudong New Area
+Shanghai 200131, PRC",100% from I-RECs from China small hydro/wind/solar
+120,2083,SG1,APAC,Singapore,"20 Ayer Rajah Crescent
+Ayer Rajah Industrial Park
+139964, Singapore",100% from I-RECs from Vietnam small hydro/wind/solar
+121,2084,SG2,APAC,Singapore,"15 Pioneer Walk
+627753, Singapore",100% from I-RECs from Vietnam small hydro/wind/solar
+122,2085,SG3,APAC,Singapore,"26A Ayer Rajah Crescent
+139963, Singapore",100% from I-RECs from Vietnam small hydro/wind/solar
+123,2086,SG4,APAC,Singapore,"7 Tai Seng Drive, 535218, Singapore",100% from I-RECs from Vietnam small hydro/wind/solar
+124,2087,SY1,APAC,Australia,"Unit B, 639 Gardeners Road
+Mascot, Sydney
+NSW 2020, Australia",18.6% Grid renewables backed by LGCs
+125,2088,SY2,APAC,Australia,"Unit C, 639 Gardeners Road
+Mascot, Sydney
+NSW 2020, Australia",18.6% Grid renewables backed by LGCs
+126,2089,SY3,APAC,Australia,"47 Bourke Road
+Alexandria, Sydney
+NSW 2015, Australia",18.6% Grid renewables backed by LGCs
+127,2090,SY4,APAC,Australia,"200 Bourke Road, 
+Alexandria, Sydney 
+NSW 2015, Australia",18.6% Grid renewables backed by LGCs
+128,2091,SY5,APAC,Australia,"Unit B, 200 Bourke Road, Alexandria, Sydney, NSW 2015, Australia",18.6% Grid renewables backed by LGCs
+129,2092,SY6,APAC,Australia,"Silverwater NSW, Australia",18.6% Grid renewables backed by LGCs
+130,2093,SY7,APAC,Australia,"Unanderra, NSW, Australia",18.6% Grid renewables backed by LGCs
+131,2094,,,,,
+132,2095,TY1,APAC,Japan,"TRC - C Building, B Block
+4F 5-1 Heiwajima 6-Chome
+Ota-Ku
+Tokyo, Japan
+143-0006",100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+133,2096,TY2,APAC,Japan,"3-8-21 Higashi Shinagawa
+Shinagawa-ku
+Tokyo, Japan
+140-0002",100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+134,2097,TY3,APAC,Japan,"1-9-20, Edagawa,
+Koto-ku, Tokyo, Japan
+135-0051",100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+135,2098,TY4,APAC,Japan,"North Tower,
+_tematchi Financial City
+_temachi, 1-9-5,
+Chiyoda-ku,Tokyo
+100-0004",100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+136,2099,TY5,APAC,Japan,"1-10-19, Edagawa, Koto-ku, Tokyo, Japan 135-0051",100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+137,2100,TY6,APAC,Japan,"2-2-43, Higashi-shinagawa
+Shinagawa-ku, 
+Tokyo, Japan 
+140-0002
+",100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+138,2101,TY7,APAC,Japan,"2-2-43, Higashi-shinagawa
+Shinagawa-ku, 
+Tokyo, Japan 
+140-0002",100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+139,2102,TY8,APAC,Japan,"2-1-7, Higashi-shinagawa
+Shinagawa-ku, Tokyo
+Japan 140-0002",100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+140,2103,TY9,APAC,Japan,"1-12-3, Suido, Bunkyo-ku
+Tokyo, Japan 112-0005",100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+141,2104,TY10,APAC,Japan,"1-12-3, Suido, Bunkyo-ku 
+Tokyo, Japan 112-0005",100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+142,2105,TY11,APAC,Japan,"1-2-41 Ariake, Koto-ku, Tokyo, Japan 135-0063",100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+143,2106,SL1,APAC,Korea,"24, World Cup Buk-ro 60-gil, Mapo-gu, Seoul, South Korea",100% from I-RECs from China small hydro/wind/solar
+144,2107,AD1,EMEA,Middle East,"Khazna Datacentre
+Masdar City
+Abu Dhabi, United Arab Emirates
+500389",100% from I-RECs from Turkey small hydro/wind/solar
+145,2108,AM1,EMEA,Netherlands,"Luttenbergweg 4
+1101 EC Amsterdam
+The Netherlands",100% from Green product through supplier (bundled GoOs from wind)
+146,2109,AM2,EMEA,Netherlands,"Luttenbergweg 4
+1101 EC Amsterdam
+Netherlands",100% from Green product through supplier (bundled GoOs from wind)
+147,2110,AM3,EMEA,Netherlands,"Science Park 610
+1098 XH Amsterdam
+Netherlands",100% from Green product through supplier (bundled GoOs from wind)
+148,2111,AM4,EMEA,Netherlands,"Science Park 610
+1098 XH Amsterdam
+Netherlands",100% from Green product through supplier (bundled GoOs from wind)
+149,2112,AM5,EMEA,Netherlands,"Schepenbergweg 42 1105 AT Amsterdam
+Netherlands",100% from Green product through supplier (bundled GoOs from wind)
+150,2113,AM6,EMEA,Netherlands,"Amstel Business Park Campus Duivendrechtsekade 80A 1096 AH Amsterdam
+Netherlands",100% from Green product through supplier (bundled GoOs from wind)
+151,2114,AM7,EMEA,Netherlands,"Kuiperbergweg 13, 1101AE Amsterdam 
+Netherlands",100% from Green product through supplier (bundled GoOs from wind)
+152,2115,AM8,EMEA,Netherlands,"Gyroscoopweg 2E-F, 1042AM Amsterdam
+Netherlands",100% from Green product through supplier (bundled GoOs from wind)
+153,2116,AM11,EMEA,Netherlands,Luttenbergweg 4 1101 EC Amsterdam The Netherlands,100% from Green product through supplier (bundled GoOs from wind)
+154,2117,BA1,EMEA,Spain,"Calle Acero, 30-32 
+Barcelona 8038 Spain",100% from Green product through supplier (bundled GoOs from hydro/solar/ biomass/wind)
+155,2118,DX1,EMEA,Middle East,"F88 - 92, Dubai Production City
+Sheikh Mohammed Bin Zayed Rd
+Dubai, United Arab Emirates 500389",100% from I-RECs from UAE solar
+156,2119,DX2,EMEA,Middle East,"Khazna Datacentre, Meydan, Nad Al Sheba 1, Dubai, United Arab Emirates",100% from I-RECs from UAE solar
+157,2120,DB1,EMEA,Ireland,"Unit 4027 Kingswood Road Citywest Business Campus, Dublin 24 Ireland",100% from Green product through supplier (bundled GoOs from wind)
+158,2121,MI3,AMER,South,"4680 Conference Way South
+Suite 150
+Boca Raton, FL 33431",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+159,2122,MI6,AMER,South,"1525 NW 98th Court
+Doral, FL 33172",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+160,2123,MO1,C. AMER,South,"Aristoteles 119 - Parque Kalos
+Apodaca, NL Mexico 66603",100% from I-RECs from Mexico wind/solar
+161,2124,MX1,C. AMER,South,"Parque Tecnologico Innovacion - Lte 79, 
+El Marques, MX, 76246",100% from I-RECs from Mexico wind/solar
+162,2125,MX2,C. AMER,South,"Parque Tecnologico Innovacion - Lte 80, 
+El Marques, MX, 76246",100% from I-RECs from Mexico wind/solar
+163,2126,NY1,AMER,North,"165 Halsey Street
+8th Floor
+Newark, NJ 07102",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+164,2127,NY2,AMER,North,"275 Hartz Way
+Secaucus, NJ 07094",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+165,2128,NY4,AMER,North,"755 Secaucus Road
+Secaucus, NJ 07094",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+166,2129,NY5,AMER,North,"800 Secaucus Road
+Secaucus, NJ 07094",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+167,2130,NY6,AMER,North,"105 Enterprise Avenue South
+Secaucus, NJ 07094",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+168,2131,NY7,AMER,North,"5851 West Side Avenue
+North Bergen, NJ 07047",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+169,2132,NY8,AMER,North,"60 Hudson Street
+Suite 1602
+New York, NY 10011",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+170,2133,NY9,AMER,North,"111 8th Avenue
+New York, NY 10011",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+171,2134,NY11,AMER,North,"1400 Federal Boulevard
+Carteret, NJ, 07008",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+172,2135,NY13,AMER,North,"401 Fieldcrest Drive
+Elmsford, NY 10523",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+173,2136,PH1,AMER,East,"401 North Broad Street
+Suite 990
+Philadelphia, PA 19108",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+174,2137,SE2,AMER,West,"2001 Sixth Ave.
+The Westin Building, Suite 1202
+Seattle, WA 98121",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+175,2138,SE3,AMER,West,"2020 Fifth Ave.
+5/F, 6/F, 7/F, 8/F
+Seattle, WA 98121",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+176,2139,SE4,AMER,West,"6906 South 204th Street
+Kent, WA, 98032",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+177,2140,SV1,AMER,West,"11 Great Oaks Boulevard
+San Jose, CA 95119","100% from San Jose Clean Energy (Greensource 100% carbon-free), RECs from wind VPPAs, and Green-e wind RECs"
+178,2141,SV2,AMER,West,"1350 Duane Avenue
+Santa Clara, CA 95054",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+179,2142,SV3,AMER,West,"1735 Lundy Avenue
+San Jose, CA 95131","100% from San Jose Clean Energy (Greensource 100% carbon-free), RECs from wind VPPAs, and Green-e wind RECs"
+180,2143,SV4,AMER,West,"255 Caspian Drive
+Sunnyvale, CA 94089","100% from Silicon Valley Clean Energy (GreenStart 100% carbon free), RECs from wind VPPAs, and Green-e wind RECs"
+181,2144,SV5,AMER,West,"9 Great Oaks Boulevard
+San Jose, CA 95119","100% from San Jose Clean Energy (Greensource 100% carbon-free), RECs from wind VPPAs, and Green-e wind RECs"
+182,2145,,,,,
+183,2146,SV8,AMER,West,"529 Bryant Street
+Palo Alto, CA 94301",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+184,2147,SV10,AMER,West,"7 Great Oaks Boulevard
+San Jose, CA 95119","100% from San Jose Clean Energy (Greensource 100% carbon-free), RECs from wind VPPAs, and Green-e wind RECs"
+185,2148,SV13,AMER,West,"2030 Fortune Drive, Suite 130
+San Jose, CA 95131",100% from San Jose Clean Energy (Greensource 100% carbon-free)
+186,2149,SV14,AMER,West,"2960 Corvin Drive, Pod D
+Santa Clara, CA 95051",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+187,2150,SV15,AMER,West,"2970 Corvin Drive, Pod C
+Santa Clara, CA 95051",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+188,2151,SV16,AMER,West,"3000 Corvin Drive, Pod B
+Santa Clara, CA 95051",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+189,2152,SV17,AMER,West,"3030 Corvin Drive, Pod A
+Santa Clara, CA 95051",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+190,2153,TR1,AMER,North,"151 Front Street West
+3rd, 5th, 6th and 7th floors
+Toronto, Ontario M5J 2N1
+Canada",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+191,2154,TR2,AMER,North,"45 Parliament Street
+Toronto, Ontario M5A 0G7
+Canada",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+192,2155,BG1,AMER,South,"Carrera 106 15A- 25
+Manzana 6 Lote 27
+Zona Franca de Bogotá
+CP 110921
+Bogotá D.C., Colombia",100% from I-RECs from Colombia hydro
+193,2156,RJ1,AMER,South,"Rua Voluntários da Pátria, 360
+Botafogo - Rio de Janeiro/RJ
+CEP: 22270-010",100% from Green product through supplier (bundled wind I-RECs)
+194,2157,RJ2,AMER,South,"Estrada Adhemar Bebiano, 1380
+Del Castilho - Rio de Janeiro/RJ
+CEP: 21051-070",100% from Green product through supplier (bundled wind I-RECs)
+195,2158,SP1,AMER,South,"Rua Doutor Miguel Couto, 58
+Centro - São Paulo/SP
+CEP: 01008-010",100% from Green product through supplier (bundled wind I-RECs)
+196,2159,SP2,AMER,South,"Alameda Araguaia, 3641
+Tamboré - Barueri/SP
+CEP: 06455-000",100% from Green product through supplier (bundled wind I-RECs)
+197,2160,SP3,AMER,South,"Avenida Marcos Penteado de Ulhoa Rodrigues, 249
+Santana de Parnaiba/SP
+CEP: 06543-001",100% from Green product through supplier (bundled wind I-RECs)
+198,2161,SP4,AMER,South,"Avenida Ceci, 1900,
+Tamboré - Barueri/SP
+CEP: 06460-120",100% from Green product through supplier (bundled wind I-RECs)
+199,2162,AE1,APAC,Australia,Adelaide SA 5000,18.6% from LGCs from wind/solar
+200,2163,BR1,APAC,Australia,"Fortitude Valley, QLD, Australia",18.6% from LGCs from wind/solar
+201,2164,CA1,APAC,Australia,"Mitchell, ACT, Australia",18.6% from Grid renewables backed by LGCs
+202,2165,HK1,APAC,Hong Kong,"17/F Goodman Global Gateway,
+168 Yeung Uk Road,
+Tsuen Wan, N.T., Hong Kong",100% from I-RECs from China small hydro/wind/solar
+203,2166,HK2,APAC,Hong Kong,"17/F Kerry Warehouse (Tsuen Wan)
+3 Shing Yiu Street 
+Kwai Chung, N.T.
+Hong Kong",100% from I-RECs from China small hydro/wind/solar
+204,2167,HK3,APAC,Hong Kong,"1 Wang Wo Tsai Street
+Tsuen Wan, N.T.
+Hong Kong",100% from I-RECs from China small hydro/wind/solar
+205,2168,HK4,APAC,Hong Kong,"13/F, Ever Gain Building (No.3) 22 On Sum Street Sha Tin Hong Kong",100% from I-RECs from China small hydro/wind/solar
+206,2169,HK5,APAC,Hong Kong,"Tower 2, 299 Wan Po Road, 
+Tseung Kwan O, Kowloon, 
+Hong Kong",100% from I-RECs from China small hydro/wind/solar
+207,2171,DA11,AMER,South,"1990 N Stemmons Freeway
+Dallas, TX 75027",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+208,2172,CL1,AMER,West,"315 8 Ave SW, 
+Calgary AB T2P 4K1
+Canada",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+209,2173,CL2,AMER,West,"1930 Maynard Rd SE
+Calgary AB T2E 6J8
+Canada",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+210,2174,CL3,AMER,West,"5300 86 Ave SE, 
+Calgary AB T2C 4L7
+Canada",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+211,2175,KA1,AMER,West,"1460 Bunker Rd, 
+Kamloops, BC, V2C 0B5
+Canada",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+212,2176,MT1,AMER,West,"9300 Trans Canada Route, 
+Montréal, QC H4S 1S1
+Canada",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+213,2177,OT1,AMER,West,"200 Avenue Lépine, 
+Gatineau, QC, J8L 0B3, 
+Canada",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+214,2178,SJ1,AMER,West,"7 McIntosh St, 
+Saint John, NB E2K 5B7
+Canada",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+215,2179,TR4,AMER,North,"100 Wellington St W,
+Toronto, Ontario, M5J 2R2
+Canada",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+216,2180,TR5,AMER,North,"8100 Warden Ave, 
+Markham, Ontario, L6G 1B4
+Canada",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+217,2181,TR6,AMER,North,"1895 Williams Pkwy,
+Brampton, Ontario L6S 5Z7,
+Canada",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+218,2182,TR7,AMER,North,"30 Bramtree Ct,
+Brampton, Ontario L6S 5Z7,
+Canada",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+219,2183,VA1,AMER,West,"4185 Still Creek Dr, 
+Burnaby, BC V5C 6G9
+Canada",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+220,2184,WI1,AMER,North,"1450 Waverly St, 
+Winnipeg, MB R3T 0P6,
+Canada",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+221,2186,,,,,
+222,2187,DC21,AMER,East,"22175 Beaumeade Circle
+Ashburn, VA 20147",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+223,2188,SP5x,AMER,South,"Av. Marcos Penteado de Ulhôa Rodrigues, 
+888 Santana de Parnaíba, São Paulo, Brazil, 06543-001",100% from Green product through supplier (bundled wind I-RECs)
+224,2189,SV11,AMER,West,"5 Great Oaks Boulevard
+San Jose, CA 95119",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+225,2190,MB1,APAC,India,"Unit A-001, Boomerang, Chandivali Farm Road, 
+Andheri East, Mumbai, India, 400072",100% from I-RECs from India small hydro
+226,2191,MB2,APAC,India,"Plot No.37, Chandivali Farm Road, 
+Andheri East, Mumbai, India, 400072",100% from I-RECs from India small hydro
+227,2192,OS2x,APAC,Japan,"4-5 Saito-aokita, Minoh City, Japan",100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+228,2193,PE3,APAC,Australia,"Shenton Park, WA 6008
+",18.6% from 100% from Grid renewables backed by LGCs
+229,2194,SG5,APAC,Singapore,"6 Sunview Drive, Singapore, SG, 627485",100% from I-RECs from Vietnam small hydro/wind/solar
+230,2195,TY12x,APAC,Japan,"210-6, 2-101-8 Izumino, Inzai-shi, Chiba, JP, 270 1360",100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+231,2196,BX1,EMEA,France,"39 Rue de Strasbourg, Bruges, France, 33520","100% Green product through supplier (bundled wind, hydro, and solar GOs)"
+232,2197,FR8,EMEA,Germany,"Lärchenstraße 139A Frankfurt, Germany",100% from Green product through supplier (bundled GoOs from GreenBase program)
+233,2198,GN1,EMEA,Italy,"Via Lungobisagno Istria 14/A
+Genova, Genoa, Italy",100% from Green product through supplier (bundled GoOs from local wind)
+234,2199,LD11x,EMEA,United Kingdom,"765 Henley Road, 
+Slough, SL1 4JW",100% from Green product through supplier (GoOs and REGOs)
+235,2200,MC1,EMEA,Oman,"Equinix MC1 Service Road at Al Oqda in Wilayat Al Batinah, Barka, Oman, Postal Code 789
+",100% from I-RECs from UAE and Jordan solar
+236,2201,ML5,EMEA,Italy,"Cascina Castelletto Settimo, Milanese, 
+20019 - Milan (Ml) - Italy",100% from Green product through supplier (bundled GoOs from local wind)
+237,2202,MU4,EMEA,Germany,"Dywidagstraße 10
+85609 Aschheim, Germany",100% from Green product through supplier (bundled GoOs from GreenBase program)
+238,2204,PA9x,EMEA,France,"114 Rue Ambroise Croizat, Saint Denis
+France 93200","100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+239,2205,FR9x,EMEA,Germany,"Friesstrasse 22-24, 60388 Frankfurt am Main",100% from GoOs from wind/solar
+240,2206,OS3,APAC,Japan,"2 Chome-2-7 Shiromi, Osaka 540-0001",100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+241,2207,PA10,EMEA,France,"114 Rue Ambroise Croizat
+93200 Saint-Denis",Exempt for 2022; currently nothing beyond the grid
+242,2208,ST1,AMER,South,"Avenida los Vientos, 20239, Pudahuel CDLV I-II, Región Metropolitana, Chile, 8340519",Exempt for 2022; currently nothing beyond the grid
+243,2209,ST2,AMER,South,"Avenida los Vientos, 20239, Pudahuel CDLV III-IV, Región Metropolitana, Chile, 8340519",Exempt for 2022; currently nothing beyond the grid
+244,2210,ST3,AMER,South,"Pasaje Nueva Amunategui 26, Santiago, Región Metropolitana, Chile, 8340519",Exempt for 2022; currently nothing beyond the grid
+245,2211,ST4,AMER,South,"Ruta 66, Camino de la Fruta, S/N, San Pedro, Región Metropolitana, Chile, 9660000",Exempt for 2022; currently nothing beyond the grid
+246,2212,MA5,EMEA,United Kingdom,"Agecroft Commerce Park, Lamplight Way, Pendlebury, Manchester M27 8BQ, United Kingdom",100% from Green product through supplier (GoOs and REGOs)
+247,2213,LM1,AMER,South,"Centauro 115, Santiago de Surco, Lima 15023, Peru",Exempt for 2022; currently nothing beyond the grid
+248,2214,MD6,EMEA,Spain,"C. de la Pedriza, 12, 28108 Alcobendas, Madrid, Spain",Exempt for 2022; currently nothing beyond the grid
+249,2215,DB5x,EMEA,Ireland,"Blanchardstown Business and Technology Park, Blanchardstown, Dublin 15, Ireland",Exempt for 2022; currently nothing beyond the grid
+250,2216,ML7x,EMEA,Italy,,Exempt for 2022; currently nothing beyond the grid
+251,2217,MD3x,EMEA,Spain,"Calle de la Pedriza 12, Alcobendas, Madrid, ES, 28108",Exempt for 2022; currently nothing beyond the grid
+252,2218,MX3x,C. AMER,South,,Exempt for 2022; currently nothing beyond the grid
+253,2219,FR11x,EMEA,Germany,"Friesstraße 7, Frankfurt am Main, Germany, 60388",100% from Green product through supplier (bundled GoOs from GreenBase program)
+254,2220,SY9x,APAC,Australia,"10 Grand Avenue, Rosehill, NSW 2142, Australia",18.6% from Grid renewables backed by LGCs
+255,2221,Abidjan1,EMEA,Côte d'Ivoire,"Zone 1, ZBTIC, Free Zone of Biotechnology, Information and Communication Technologies of Grand Bassam Union discipline Travail, Mahatma Gandhi Technology Park, Cote D'Ivoire 5 13'41.5""""N 3 45'19.9""""W""
+",Exempt for 2022; currently nothing beyond the grid
+256,2222,Accra1,EMEA,Ghana,"Appolonia Industrial Park, Kpone Katamanso near Tema.
+5 48'14.3""""N 0 05'29.7""""W""
+",Exempt for 2022; currently nothing beyond the grid
+257,2223,Lagos1,EMEA,Nigeria,"Chief Ikokwu Street Ogombo, Eti Osa
+LG, Lagos State Lekki 1 DC 6 26'58.1""""N 3 35'18.4""""E Lekki 2 6 27'01.2""""N 3 35'30.9""""E",Exempt for 2022; currently nothing beyond the grid
+258,2224,Lagos2,EMEA,Nigeria,"Flowergate Mixed Development Scheme, off Abeokuta/ Shagamu Expressway, Kajola Village, Obafemi Owode LGA, Ogun State. 6
+53'29.0""""N 3 34'31.8""""E",Exempt for 2022; currently nothing beyond the grid
+259,2225,SV6,AMER,West,"444 Toyama Drive
+Sunnyvale, CA 94089",100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+260,2226,SY8,APAC,Australia,"74 Mentmore Avenue,
+Rosebery, Sydney, NSW 2018",18.6% from Grid renewables backed by LGCs
